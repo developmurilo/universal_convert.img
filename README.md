@@ -29,7 +29,8 @@
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/developmurilo/universal_convert.img.git
+    git clone https://github.com/developmurilo/universal_convert.img
+
     ```
 
 2. **Abra o arquivo `index.html` em um navegador**.
