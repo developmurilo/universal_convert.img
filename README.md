@@ -35,19 +35,6 @@
 
 2. **Abra o arquivo `index.html` em um navegador**.
 
-## Contribuição
 
-Se você deseja contribuir com o projeto, siga os seguintes passos:
 
-1. Faça um fork deste repositório.
-2. Crie uma nova branch com sua funcionalidade: `git checkout -b minha-nova-funcionalidade`.
-3. Faça as alterações desejadas.
-4. Envie um pull request explicando suas alterações.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-**Easy Pixel** foi desenvolvido por [Murilo de oliveira silva](https://github.com/developmurilo).
